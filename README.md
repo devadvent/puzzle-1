@@ -1,6 +1,6 @@
 ![](README.cover.jpg)
 
-⚠️ For detailed information about the contest, check out [devadvent/readme](https://github.com/devadvent/readme/) ⚠️
+ℹ️ For detailed information about the contest, check out [devadvent/readme](https://github.com/devadvent/readme/)
 
 # Dev Advent Calendar 🎅 Puzzle 1 - Rescue Rudolf
 
