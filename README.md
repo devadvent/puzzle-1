@@ -39,6 +39,7 @@ In short:
 
 -   ✨ Create your repository by [acceping the assignment](ENTER_CLASSROOM_LINK_HERE)
 -   🧩 Solve the puzzle
+-   🐦 Add your Twitter handle to `twitter.js`
 -   🤖 Test your solution
 -   🚀 Upload your changes to the `main` branch
 
