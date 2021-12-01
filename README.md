@@ -1,5 +1,7 @@
 ![](README.cover.jpg)
 
+⚠️ For detailed information about the contest, check out [devadvent/readme](https://github.com/devadvent/readme/) ⚠️
+
 # Dev Advent Calendar 🎅 Puzzle 1 - Rescue Rudolf
 
 Weeks before Christmas, Santa's reindeers start practicing their flying in order to be fit for the big night.
